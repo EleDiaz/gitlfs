@@ -1,5 +1,5 @@
 # GIT LFS
 
-![](commands_execution.PNG)
+![](commands_execution.png)
 
-![](more_commands.PNG)
+![](more_commands.png)
